@@ -1,5 +1,5 @@
 # MultiVariate Polygenic Mixture Model (MVPMM)
-
+## Christopher DeBoever and Manuel A. Rivas
 This directory contains the MultiVariate Polygenic Mixture Model (MPVMM) for
 estimating genetic parameters as described in 
 [DeBoever et al. 2019](https://www.biorxiv.org/content/10.1101/738856v2).
