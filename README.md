@@ -9,6 +9,7 @@ standard errors) for two phenotypes and estimates genetic parameters such as
 genetic correlation, polygenicity, and scale of genetic effects for the
 phenotypes. Please see [the manuscript](https://www.biorxiv.org/content/10.1101/738856v2) for more
 information on MVPMM.
+<img src="https://www.biorxiv.org/content/biorxiv/early/2019/08/21/738856/F4.large.jpg"  />
 
 ## Running MVPMM
 
